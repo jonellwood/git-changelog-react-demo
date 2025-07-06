@@ -2,6 +2,12 @@
 
 A modern, responsive changelog renderer built with **React 19** and **Vite** - showcasing modern React patterns and hooks!
 
+## Demo
+
+🌐 **[Live Demo](https://react.jonellwood.dev){:target="_blank"}** - See it in action!
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df1eae0c-deb3-475a-85de-00e8f8cf5c61/deploy-status)](https://app.netlify.com/projects/react-changelog-demo/deploys)
+
 ## Features
 
 - ⚛️ **React 19**: Latest React with modern hooks and patterns
